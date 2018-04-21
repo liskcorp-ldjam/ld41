@@ -1,45 +1,26 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: f515879d1aad73948a4ba578b14aa890
-timeCreated: 1524312043
-=======
-guid: cde8e737032e1f04eb8e2a6d052a7507
-timeCreated: 1524308201
->>>>>>> f667d40c369950ec9ef16079b38fecd3fc17e993
-licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-<<<<<<< HEAD
-    2100000: Material
-=======
->>>>>>> f667d40c369950ec9ef16079b38fecd3fc17e993
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cube
     7400000: Default Take
     9500000: //RootNode
-<<<<<<< HEAD
-  externalObjects: {}
-=======
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
     second: {fileID: 2100000, guid: 6dd54bb5d3a5b6e4f9ccd75cb76bd5a1, type: 2}
->>>>>>> f667d40c369950ec9ef16079b38fecd3fc17e993
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-<<<<<<< HEAD
-    materialLocation: 1
-=======
     materialLocation: 0
->>>>>>> f667d40c369950ec9ef16079b38fecd3fc17e993
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -77,11 +58,6 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-<<<<<<< HEAD
-    preserveHierarchy: 0
-    indexFormat: 0
-=======
->>>>>>> f667d40c369950ec9ef16079b38fecd3fc17e993
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
